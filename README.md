@@ -44,6 +44,7 @@ Create a `.env` file in the root of the project:
 ```env
 OPENAI_API_KEY=your_openai_api_key
 
+---
 
 ## 📁 Project Structure
 
